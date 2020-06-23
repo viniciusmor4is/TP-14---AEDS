@@ -1,0 +1,7 @@
+Para execução do arquivo espiral.c, é necessário um programa compativel com a linguagem C.
+Durante a programação, foi-se utilizado o CodeBlocks.
+Ao inicializar o projeto no programa de sua preferência, execute-o pressionando F9 ou então "build and run" na aba "Build".
+Uma janela irá surgir e nela há um espaço para a entrada, que é o numero do ponto desejado.
+Após inseri-lo, tecle ENTER e aparecerá os números correspondentes às coordenadas x e y do 
+ponto, dentro do plano da espiral quadrática. O processo será repetido para os seguintes testes a serem feitos.
+Caso queira encerrar o programa, basta introduzir um número menor que 0.
